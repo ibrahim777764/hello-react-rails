@@ -1,5 +1,5 @@
 
-# Hello Rails React
+# Hello  React Rails 
 Generate random greeting messages.
 
 
