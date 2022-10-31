@@ -61,10 +61,8 @@ Feel free to check the issues page.
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-Microverse
-Code Reviewers
-Original design idea by Gregoire Vella on Behance.
-The Creative Commons license of the design requires that you give appropriate credit to the author. Therefore, you must do it in the README of your project.
+
+Microverse for the motivation.
 
 # 📝 License
-This project is MIT licensed.
+This project is [MIT](./MIT.md) licensed.
