@@ -5,7 +5,7 @@ Generate random greeting messages.
 
 # Made With 🔖
  - Ruby on Rails
- - React
+ - React 
 - Linter: Rubocop
 - Code Editor: VS Code
 ## Getting Started
